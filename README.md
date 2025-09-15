@@ -63,7 +63,7 @@ Program dipisahkan menjadi 3 packages:
 javac model/Tiket.java service/TiketService.java main/MainApp.java
 
 4.Jalankan Program dengan
-'''bash
+```bash
 java main.MainApp
 ```
 
