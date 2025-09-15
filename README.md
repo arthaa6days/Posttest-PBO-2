@@ -57,11 +57,14 @@ Program dipisahkan menjadi 3 packages:
    cd SistemPenjualanTiketKonser/src```
    ```
 
-2.cd SistemPenjualanTiketKonser/src
-
+2.Pindah Direktory
+```
+cd SistemPenjualanTiketKonser/src
+```
 3.Compile Program
+```
 javac model/Tiket.java service/TiketService.java main/MainApp.java
-
+```
 4.Jalankan Program dengan
 ```bash
 java main.MainApp
