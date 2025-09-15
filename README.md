@@ -54,7 +54,8 @@ Program dipisahkan menjadi 3 packages:
 1. Clone repository:
    ```bash
    git clone https://github.com/username/SistemPenjualanTiketKonser.git
-   cd SistemPenjualanTiketKonser/src
+   cd SistemPenjualanTiketKonser/src```
+   ```
 
 2.cd SistemPenjualanTiketKonser/src
 
@@ -64,5 +65,5 @@ javac model/Tiket.java service/TiketService.java main/MainApp.java
 4.Jalankan Program dengan
 '''bash
 java main.MainApp
+```
 
-5.
